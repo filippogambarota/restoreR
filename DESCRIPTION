@@ -1,0 +1,14 @@
+Package: restoreR
+Type: Package
+Title: Restore R Packages After Updating R
+Version: 0.1.0
+Author: Filippo Gambarota
+Maintainer: <filippo.gambarota@gmail.com>
+Description: Create a backup file for restoring R packages from CRAN and Github after updating or reinstalling R
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports:
+    cli,
+    devtools
+RoxygenNote: 7.1.2
